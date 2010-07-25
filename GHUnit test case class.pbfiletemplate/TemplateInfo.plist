@@ -1,0 +1,4 @@
+{
+	MainTemplateFile = "class.m";
+	Description = "An Objective-C class containing a GHUnit test case, which includes the <GHUnit/GHUnit.h> header";
+}
